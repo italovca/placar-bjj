@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="placar-bjj:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="placar-bjj.war">
+      <element id="artifact" artifact-name="placar-bjj:war exploded" />
+    </root>
+  </artifact>
+</component>
